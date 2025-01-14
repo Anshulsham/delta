@@ -1,2 +1,2 @@
 # delta
-sample project
+sample project.
